@@ -1,5 +1,5 @@
-THis is line1
+This is line1
 
 
 This is second last
-THis is last
+This is last line
