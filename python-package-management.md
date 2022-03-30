@@ -2,8 +2,8 @@
 
 ### Python Package managers
 
+----------------------------
 
-############################
 1. conda - creates packages in conda/env folder
 
 **Conda commands**
@@ -19,7 +19,8 @@
 4. `conda deactivate` : deactivate current conda environment, to start base conda environment
 
 
-###########################
+--------------------------
+
 2. virtualenv
 
 **virtualenv command**
@@ -30,7 +31,8 @@
 
 3. `source my_env/bin/activate` : to initialize my_env virtual environment.
 
-############################
+-------------------------
+
 3. pipenv
 
 **pipenv commands**
@@ -41,7 +43,8 @@
 
 3. `pipenv install flask` : to install package with pipenv, this is similar to pip install, except the different is it also modifies the pipfile that has package requirements of the environment.
 
-###########################
+------------------------
+
 4. pip
 
 pip - 'pip install package' installs the package in current environment
@@ -60,7 +63,7 @@ command :
 
 6. `pip install -r requirements.txt` : install packages from requirements.txt list.
 
-###########################
+------------------------
 
 
 
