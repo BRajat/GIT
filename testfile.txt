@@ -1,5 +1,1 @@
-THis is line1
-
-
-THis is sencond last
-THis is last
+file contents removed!
