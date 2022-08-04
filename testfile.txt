@@ -1,3 +1,4 @@
 file contents removed!
 
 file contents readded -tring tring
+THis is new diff
